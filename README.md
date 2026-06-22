@@ -1,7 +1,7 @@
 # Sistema de Gestión de Restaurante
 
 ## Estudiante
-[Escriba aquí su nombre completo]
+Johana Lorena Castro Alban 
 
 ## Descripción
 Este proyecto fue desarrollado en Python utilizando Programación Orientada a Objetos (POO). El sistema permite registrar productos y clientes de un restaurante y mostrar la información almacenada.
